@@ -5,6 +5,7 @@ import DarkVariantExample from "./pages/Carrousel"
 
 function App() {
   return <>
+  <Navbar1 />
   <DarkVariantExample />
   </>;
 }
